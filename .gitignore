@@ -1,0 +1,6 @@
+# Ignore IDE / editor files
+.idea/
+*.iml
+
+# Optional: ignore system files
+.DS_Store
